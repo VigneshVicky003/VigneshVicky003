@@ -38,7 +38,11 @@
 
 ---
 
-[![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&title_color=#8a2be2&text_color=#ffffff&bg_color=#202020&border_color=#404040)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshVicky003)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&title_color=8a2be2&text_color=ffffff&bg_color=202020&border_color=404040)](https://github.com/anuraghazra/github-readme-stats)
 
 [course]: https://www.devtown.in/product/full-stack-training-and-internship
 [twitter]: https://twitter.com/VigneshVickyGVK
