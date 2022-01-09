@@ -25,9 +25,9 @@
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React.js" width="30px" top="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" justify="center' alt="Express.js" width="30px" src="assets\expressjs.svg" />
+<img align="left" alt="Express.js" width="30px" src="assets\expressjs.svg" />
 <img align="left" alt="mongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
@@ -42,7 +42,7 @@
 
 ---
 
-[![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&title_color=8a2be2&text_color=ffffff&bg_color=202020&border_color=404040&icon_color=8a2be2)](https://github.com/anuraghazra/github-readme-stats)
+[![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&title_color=8a2be2&text_color=ffffff&bg_color=202020&border_color=404040&icon_color=8a2be2&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [course]: https://www.devtown.in/product/full-stack-training-and-internship
 [twitter]: https://twitter.com/VigneshVickyGVK
