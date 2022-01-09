@@ -27,7 +27,7 @@
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Express.js" width="30px" src="C:\Users\DELL\Documents\VigneshVicky003\assets\Expressjs.png" />
+<img align="left" alt="Express.js" width="30px" src="assets\Expressjs.png" />
 <img align="left" alt="mongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
@@ -38,7 +38,7 @@
 
 ---
 
-[![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&title_color=#8a2be2&text_color=#ffffff&bg_color=#202020&border_color=#404040)](https://github.com/anuraghazra/github-readme-stats)
 
 [course]: https://www.devtown.in/product/full-stack-training-and-internship
 [twitter]: https://twitter.com/VigneshVickyGVK
