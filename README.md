@@ -38,13 +38,13 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshVicky003&title_color=8a2be2&text_color=ffffff&bg_color=202020&border_color=404040)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshVicky003&title_color=0096ff&text_color=ffffff&bg_color=202020&border_color=404040)
 
 ---
 
-![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&title_color=8a2be2&text_color=ffffff&bg_color=202020&border_color=404040&icon_color=8a2be2&hide=prs,issues)
+![VigneshVicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneshVicky003&show_icons=true&title_color=0096ff&text_color=ffffff&bg_color=202020&border_color=404040&icon_color=0096ff&hide=prs,issues)
 
-[course]: https://www.devtown.in/product/full-stack-training-and-internship
+[course]: https://www.shapeai.tech/product/full-stack-training-and-internship?ref=Z18YESF
 [twitter]: https://twitter.com/VigneshVickyGVK
 [instagram]: https://www.instagram.com/vignesh_vicky__003
 [linkedin]: https://www.linkedin.com/in/vigneshkumarg
