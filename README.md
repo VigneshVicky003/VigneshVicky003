@@ -1,4 +1,4 @@
-### Hi there, I'm Vigneshkumar - aka Vicky <img src="https://raw.githubusercontent.com/PriyaBihani/PriyaBihani/main/wave.gif" width="30px">
+### Hi there, I'm Vigneshkumar - aka Vicky <img src="https://raw.githubusercontent.com/PriyaBihani/PriyaBihani/main/wave.gif" max-width="30px">
 
 ## 👨‍🎓 I'm an Engineering graduate, Full-Stack Web Developer, and have great interest in Web Development!!
 
