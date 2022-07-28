@@ -4,6 +4,7 @@
 
 - 📖 I have completed Full-Stack Web Development course by [DevTown](https://www.devtown.in/) : [Full-Stack Web Dev Industrial Training Program][course]!
 - 👨‍💻 I have worked as Web Developer intern at [Dreadnought school](https://dreadnought.school/)
+- I'm currently working as a Full-Stack Web Developer intern at [My Digital Accounts](https://mydigitalaccounts.com/)
 - 👯 I’m looking forward to create many awesome projects and colobrate with other amazing developers.
 - 📱 I have created many Android widgets using [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_IN&gl=US) : <a href='https://play.google.com/store/apps/dev?id=5597854943914621048&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="150px" align="center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 - ⚡ Fun fact : I love to play Football and listening to music.
@@ -32,6 +33,11 @@
 <img align="left" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="angular" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="php" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/php/php-original.svg" />
+<img align="left" alt="laravel" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" alt="phpstorm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/phpstorm/phpstorm-original.svg" />
+<img align="left" alt="mysql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
 
 <br />
 <br />
