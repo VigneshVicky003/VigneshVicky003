@@ -3,8 +3,8 @@
 ## 👨‍🎓 I'm an Engineering graduate, Full-Stack Web Developer, and have great interest in Web Development!!
 
 - 📖 I have completed Full-Stack Web Development course by [DevTown](https://www.devtown.in/) : [Full-Stack Web Dev Industrial Training Program][course]!
-- 👨‍💻 I have worked as Web Developer intern at [Dreadnought school](https://dreadnought.school/)
-- I'm currently working as a Full-Stack Web Developer intern at [My Digital Accounts](https://mydigitalaccounts.com/)
+- 💻 I have worked as Web Developer intern at [Dreadnought school](https://dreadnought.school/)
+- 👨‍💻 I'm currently working as a Full-Stack Web Developer intern at [My Digital Accounts](https://mydigitalaccounts.com/)
 - 👯 I’m looking forward to create many awesome projects and colobrate with other amazing developers.
 - 📱 I have created many Android widgets using [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_IN&gl=US) : <a href='https://play.google.com/store/apps/dev?id=5597854943914621048&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="150px" align="center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 - ⚡ Fun fact : I love to play Football and listening to music.
