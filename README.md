@@ -1,6 +1,6 @@
 ### Hi there, I'm Vigneshkumar - aka Vicky <img src="https://raw.githubusercontent.com/PriyaBihani/PriyaBihani/main/wave.gif" max-width="30px" width="30px">
 
-## 👨‍🎓 I'm an Engineering graduate, Full-Stack Web Developer, and have great interest in Web Development!!
+## 👨‍🎓 I'm a Full-Stack Web Developer, and have great interest in Web Development!!
 
 - 📖 I have completed Full-Stack Web Development course by [DevTown](https://www.devtown.in/) : [Full-Stack Web Dev Industrial Training Program][course]!
 - 💻 I have worked as Web Developer intern at [Dreadnought school](https://dreadnought.school/)
